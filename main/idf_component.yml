@@ -1,0 +1,3 @@
+dependencies:
+  sensor_component:
+    git: https://github.com/Num-Pawin166/LAB08-67030166/tree/main/sensor
